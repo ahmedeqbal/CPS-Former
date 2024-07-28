@@ -4,10 +4,10 @@ This repository contains the original PyTorch implementation of the paper "**[Re
 ## Method Applications
 <img src="Figures/Fig. 1.png">
 
-## Proposed Method:
+## Proposed Method
 <img src="Figures/Fig. 2.png">
 
-## Comparison with State-of-the-art:
+## Comparison with State-of-the-art
 <img src="Figures/Fig. 3.png">
 
 ## Requirements
